@@ -22,6 +22,9 @@ The primary goal of this project is to analyze and monitor workforce dynamics by
 - Salary Distribution: Salary trends across departments and job roles.
 - Diversity Insights: Gender, age group, and department-wise workforce distribution.
 
+### Dashboard Preview
+![HR-Analytics-Dashboard](dashboard.snapshot.png)
+
 
 
 
