@@ -23,7 +23,7 @@ The primary goal of this project is to analyze and monitor workforce dynamics by
 - Diversity Insights: Gender, age group, and department-wise workforce distribution.
 
 ### Dashboard Preview
-![HR-Analytics-Dashboard](dashboard.snapshot.png)
+![HR-Analytics-Dashboard](dashboard_snapshot.png)
 
 
 
